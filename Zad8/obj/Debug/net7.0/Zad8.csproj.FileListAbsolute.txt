@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/bin/Debug/net7.0/Zad8
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/bin/Debug/net7.0/Zad8.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/bin/Debug/net7.0/Zad8.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/bin/Debug/net7.0/Zad8.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/bin/Debug/net7.0/Zad8.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/refint/Zad8.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/Zad8.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad8/obj/Debug/net7.0/ref/Zad8.dll
