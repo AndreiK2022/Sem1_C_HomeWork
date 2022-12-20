@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/bin/Debug/net7.0/Zad15
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/bin/Debug/net7.0/Zad15.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/bin/Debug/net7.0/Zad15.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/bin/Debug/net7.0/Zad15.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/bin/Debug/net7.0/Zad15.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/refint/Zad15.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/Zad15.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad15/obj/Debug/net7.0/ref/Zad15.dll
