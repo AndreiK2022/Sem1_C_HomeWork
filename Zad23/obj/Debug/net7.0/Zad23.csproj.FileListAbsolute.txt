@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/bin/Debug/net7.0/Zad23
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/bin/Debug/net7.0/Zad23.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/bin/Debug/net7.0/Zad23.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/bin/Debug/net7.0/Zad23.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/bin/Debug/net7.0/Zad23.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/refint/Zad23.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/Zad23.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad23/obj/Debug/net7.0/ref/Zad23.dll
