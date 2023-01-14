@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/bin/Debug/net7.0/Zad27
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/bin/Debug/net7.0/Zad27.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/bin/Debug/net7.0/Zad27.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/bin/Debug/net7.0/Zad27.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/bin/Debug/net7.0/Zad27.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/refint/Zad27.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/Zad27.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad27/obj/Debug/net7.0/ref/Zad27.dll
