@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/bin/Debug/net7.0/Zad36
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/bin/Debug/net7.0/Zad36.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/bin/Debug/net7.0/Zad36.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/bin/Debug/net7.0/Zad36.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/bin/Debug/net7.0/Zad36.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/refint/Zad36.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/Zad36.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad36/obj/Debug/net7.0/ref/Zad36.dll
