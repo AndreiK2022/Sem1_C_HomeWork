@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/bin/Debug/net7.0/Zad29
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/bin/Debug/net7.0/Zad29.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/bin/Debug/net7.0/Zad29.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/bin/Debug/net7.0/Zad29.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/bin/Debug/net7.0/Zad29.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/refint/Zad29.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/Zad29.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad29/obj/Debug/net7.0/ref/Zad29.dll
