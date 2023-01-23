@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/bin/Debug/net7.0/Zad47
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/bin/Debug/net7.0/Zad47.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/bin/Debug/net7.0/Zad47.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/bin/Debug/net7.0/Zad47.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/bin/Debug/net7.0/Zad47.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/refint/Zad47.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/Zad47.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad47/obj/Debug/net7.0/ref/Zad47.dll
