@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/bin/Debug/net7.0/Zad43
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/bin/Debug/net7.0/Zad43.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/bin/Debug/net7.0/Zad43.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/bin/Debug/net7.0/Zad43.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/bin/Debug/net7.0/Zad43.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/refint/Zad43.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/Zad43.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad43/obj/Debug/net7.0/ref/Zad43.dll
