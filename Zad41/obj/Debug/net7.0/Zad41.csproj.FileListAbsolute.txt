@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/bin/Debug/net7.0/Zad41
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/bin/Debug/net7.0/Zad41.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/bin/Debug/net7.0/Zad41.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/bin/Debug/net7.0/Zad41.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/bin/Debug/net7.0/Zad41.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/refint/Zad41.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/Zad41.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad41/obj/Debug/net7.0/ref/Zad41.dll
