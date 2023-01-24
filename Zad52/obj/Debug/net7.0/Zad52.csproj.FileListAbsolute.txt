@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/bin/Debug/net7.0/Zad52
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/bin/Debug/net7.0/Zad52.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/bin/Debug/net7.0/Zad52.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/bin/Debug/net7.0/Zad52.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/bin/Debug/net7.0/Zad52.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/refint/Zad52.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/Zad52.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad52/obj/Debug/net7.0/ref/Zad52.dll
