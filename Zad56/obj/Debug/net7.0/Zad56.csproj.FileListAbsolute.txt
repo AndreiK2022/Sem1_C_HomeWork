@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/bin/Debug/net7.0/Zad56
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/bin/Debug/net7.0/Zad56.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/bin/Debug/net7.0/Zad56.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/bin/Debug/net7.0/Zad56.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/bin/Debug/net7.0/Zad56.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/refint/Zad56.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/Zad56.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad56/obj/Debug/net7.0/ref/Zad56.dll
