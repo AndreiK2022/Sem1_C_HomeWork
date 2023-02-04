@@ -1,0 +1,15 @@
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.csproj.AssemblyReference.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.AssemblyInfoInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.AssemblyInfo.cs
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.csproj.CoreCompileInputs.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/bin/Debug/net7.0/Zad68
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/bin/Debug/net7.0/Zad68.deps.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/bin/Debug/net7.0/Zad68.runtimeconfig.json
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/bin/Debug/net7.0/Zad68.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/bin/Debug/net7.0/Zad68.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/refint/Zad68.dll
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.pdb
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/Zad68.genruntimeconfig.cache
+/Users/andreyk/Desktop/Учеба/Sem1_C#/Zad68/obj/Debug/net7.0/ref/Zad68.dll
